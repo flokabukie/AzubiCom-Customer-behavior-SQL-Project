@@ -66,4 +66,27 @@ Unique identifiers for individual cell towers or locations where network equipme
 
  
 
-As a data analyst at AzubiCom, you are tasked with extracting valuable insights from the company's vast customer database. Using SQL, explore patterns in customer behavior, analyze call usage, and identify potential opportunities for optimizing service offerings to enhance customer satisfaction and retention.  
+As a data analytics professional at AzubiCom, you are tasked with extracting valuable insights from the company's vast customer database. Using SQL, explore patterns in customer behavior, analyze call usage, and identify potential opportunities for optimizing service offerings to enhance customer satisfaction and retention.  
+
+### **QUESTIONS**
+
+ 
+
+1. With subscribers mostly recharging their airtime wallet via EVD and Momo channels: 
+
+a. Determine the top 3 regions and bottom 3 Regions that recharged the most times?   
+
+b. Determine how many subscribers are in each region and the amount they recharged?   
+
+c. Also indicate the percentage split between both types of their recharge wallet.   
+
+
+
+2. AzubiCom Customers enjoy fast-speed internet using their handset anytime and everywhere they go. However, not all customers experience this. Identify new subscribers in the Central Region who do not use any of our data offerings at all and the data campaigns to convert them assuming they have data enabled handset.   
+
+
+
+3. For rewarding data customers only, how many customers bought and used data between 500MB and 7GB who have been on the network for more than 7 years?   
+
+
+4. If Monday is the start of the week, when was the last time subscribers used the most data in a single day? Use the current_offers_balance table. 
