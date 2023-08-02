@@ -90,3 +90,13 @@ c. Also indicate the percentage split between both types of their recharge walle
 
 
 4. If Monday is the start of the week, when was the last time subscribers used the most data in a single day? Use the current_offers_balance table. 
+
+
+Author
+Florentia Teye
+
+Florentia Teye is a Data Analytics Professional with experience in data analysis and machine learning. She has a Bachelor's of Education degree in Mathematics and has worked on several open-source projects. In her free time, she enjoys teaching, researching new niches and writing. If you have any questions or suggestions, feel free to reach out to her on GitHub or LinkedIn.
+
+LinkedIn:
+
+[![Alt text](image-1.png)](https://www.linkedin.com/in/florentia-teye-75270a191/)
